@@ -2,4 +2,4 @@ version: 2
 jobs:
   build:
   steps:
-  - run: echo "Hello CircleCi"
+    - run: echo "Hello CircleCi"
